@@ -5,6 +5,22 @@
 /.pnp
 .pnp.js
 
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
 # testing
 /coverage
 
@@ -16,7 +32,6 @@
 /build
 
 # misc
-.DS_Store
 *.pem
 
 # debug
