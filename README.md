@@ -31,7 +31,7 @@ A modern web application that generates quotes based on user-selected topics. Bu
 1. Clone the repository:
 
 ```bash
-git clone (https://github.com/ShahzaibAkram2450/Nexium-Shahzaib-Assignment-1)
+git clone https://github.com/ShahzaibAkram2450/Nexium-Shahzaib-Assignment-1
 cd Nexium-Shahzaib-Assignment-1
 ```
 
@@ -63,7 +63,7 @@ yarn dev
 
 ## Live Demo
 
-Visit the live application at: (https://nexium-shahzaib-assignment-1.vercel.app/)
+Visit the live application at: https://nexium-shahzaib-assignment-1.vercel.app/
 
 ## Contributing
 
